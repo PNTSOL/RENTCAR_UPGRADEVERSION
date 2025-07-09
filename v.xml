@@ -9,9 +9,9 @@
             <pubDate>Mon, 9 Jul 2025 10:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/vn/app/vivu-car/id6449359819" sparkle:os="ios" sparkle:shortVersionString="1.1.60" sparkle:version="1.1.60" />
             <sparkle:ignoreSkippedUpgradesBelowVersion>1.1.60</sparkle:ignoreSkippedUpgradesBelowVersion>
-            <sparkle:version>1.1.60</sparkle:version>
-            <sparkle:shortVersionString>1.1.60</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>1.1.60</sparkle:minimumSystemVersion>
+            <sparkle:version>1.1.61</sparkle:version>
+            <sparkle:shortVersionString>1.1.61</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>1.1.61</sparkle:minimumSystemVersion>
             <!-- <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags> -->
