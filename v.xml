@@ -13,10 +13,9 @@
             <sparkle:shortVersionString>1.1.60</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>1.1.60</sparkle:minimumSystemVersion>
             <sparkle:minimumAutoupdateVersion>1.1.60</sparkle:minimumAutoupdateVersion>
-
-            <!-- <sparkle:tags>
+            <sparkle:tags>
                 <sparkle:criticalUpdate />
-            </sparkle:tags> -->
+            </sparkle:tags>
         </item>
 
         <item>
