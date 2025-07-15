@@ -4,11 +4,11 @@
     <channel>
         <title>FORCE UPGRADE MOBILE APP VERSION</title>
         <item>
-            <title>Upgrade iOS Version lastest</title>
+            <title>Upgrade iOS Version</title>
             <description>Nâng cấp phiên bản iOS - Cập nhật tính năng Tra cứu phạt nguội và sửa lỗi</description>
             <pubDate>Tue, 15 Jul 2025 09:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/vn/app/vivu-car/id6449359819" sparkle:os="ios" sparkle:shortVersionString="1.1.61" sparkle:version="1.1.61" />
-            <sparkle:ignoreSkippedUpgradesBelowVersion>1.1.60</sparkle:ignoreSkippedUpgradesBelowVersion>
+            <sparkle:ignoreSkippedUpgradesBelowVersion>1.1.61</sparkle:ignoreSkippedUpgradesBelowVersion>
             <sparkle:version>1.1.61</sparkle:version>
             <sparkle:shortVersionString>1.1.61</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>1.1.61</sparkle:minimumSystemVersion>
@@ -19,8 +19,8 @@
         </item>
 
         <item>
-            <title>Upgrade Android Version 1.1.58</title>
-            <description>Nâng cấp phiên bản Android - Cập nhật tính năng mới và sửa lỗi</description>
+            <title>Upgrade Android Version</title>
+            <description>Nâng cấp phiên bản Android - Cập nhật tính năng Tra cứu phạt nguội và sửa lỗi</description>
             <pubDate>Mon, 18 Dec 2023 10:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=vn.phn.rentcar&pli=1" sparkle:os="android" sparkle:version="1.1.58" sparkle:shortVersionString="1.1.58"/>
             <sparkle:ignoreSkippedUpgradesBelowVersion>1.1.47</sparkle:ignoreSkippedUpgradesBelowVersion>
